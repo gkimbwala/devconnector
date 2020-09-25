@@ -1,5 +1,5 @@
 module.exports = {
   mongoURI:
-    "mongodb+srv://gloria:gloria1234@cluster0.f4qpx.mongodb.net/devconnector",
+    "mongodb+srv://gloriaTest:Test1234@cluster0.l5no6.mongodb.net/bisaluApp",
   secretOrKey: "secret",
 };
